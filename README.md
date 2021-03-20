@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working on React Native Sabashop App.
-- 🌱 I’m currently learning React native
-- 💬 Ask me about Anything
+- 🔭 I’m currently working on a test app.
+- 💬 Ask me about React Native!
 - 😄 Pronouns: Piro/He/Him
 - ⚡ Fun fact: I Actaully visted Antartica
