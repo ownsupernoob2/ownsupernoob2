@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20there%20I'm%20Mina%20but%20you%20can%20call%20me%20Pirogrammertext2=Full%20Stack%20Web&%20App%20Developer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20there%20I'm%20Mina%20but%20you%20can%20call%20me%20Pirogrammer&text2=Full%20Stack%20Web&%20App%20Developer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 Here is where my noodle code is stored so I can work on them later on.
