@@ -9,7 +9,7 @@
                 and App Developer, I like talking about fun topics, working with
                 a team and creating animation to make my apps and websites more
                 fluid :)</h4>
----
+
 - 🔭 I’m currently working on [Blimp-Projects]()
 
 - 🌱 I’m currently learning **TYPESCRIPT**
