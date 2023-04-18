@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Blimp-Projects]()
 
-- 🌱 I’m currently learning **TYPESCRIPT**
+- 🌱 I’m currently learning **FLASK & VUE**
 
 - 📫 How to reach me **pufferrfissh@duck.com**
 
