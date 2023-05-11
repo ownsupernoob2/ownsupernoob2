@@ -6,9 +6,8 @@
 <h1 align="center">Hi 👋, I'm Pirogrammer (Mina)</h1>
 <h3 align="center">I</h3>
 <h4 align="center">to make a long story short I’m a full stack Web Developer
-                and App Developer, I like talking about fun topics, working with
-                a team and creating animation to make my apps and websites more
-                fluid :)</h4>
+                and App Developer, I like talking about fun topics and working with
+                a team. I specialize in JS but I try to do other programming languages :)</h4>
 
 - 🔭 I’m currently working on [Blimp-Projects]()
 
@@ -44,8 +43,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ownsupernoob2&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="ownsupernoob2" /></p>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ownsupernoob2&theme=react-dark&hide_border=true&area=true)
-
 ---
 <h1 align="center">PROJECTS</h1>
 
@@ -70,15 +67,13 @@
 <h1 align="center">SOCIAL</h1>
 
 <div align="center">
-<a href="https://linkedin.com/in//mina-fuad-364161247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mina-fuad-364161247" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13236079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13236079" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ownsupernoob2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ownsupernoob2" height="30" width="40" /></a>
 </div>
 
 ---
-<h4 align="center">**How to install my React code**</h4>
-<p>To downlaod my React and React Native projects (depending on what it is) is to download them (search how you download them by yourself for react native make sure you have Expo). And do npm install then npm start, (make sure you also downloaded npm and put this command in the terminal.) this mostly works on every project execpt non-managed, "basic" commands.</p>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+
+<h6 align="center">Made with ❤️ by Me</h6>
 
 ---
 
