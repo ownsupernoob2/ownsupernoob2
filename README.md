@@ -4,14 +4,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Pirogrammer (Mina)</h1>
-<h3 align="center">I</h3>
+
 <h4 align="center">to make a long story short I’m a full stack Web Developer
                 and App Developer, I like talking about fun topics and working with
                 a team. I specialize in JS but I try to do other programming languages :)</h4>
 
-- 🔭 I’m currently working on [Blimp-Projects]()
+- 🔭 I’m currently working on [Personallity Face AI]()
 
-- 🌱 I’m currently learning **FLASK & VUE**
+- 🌱 I’m currently learning **TypeScript & Python**
 
 - 📫 How to reach me **pufferrfissh@duck.com**
 
