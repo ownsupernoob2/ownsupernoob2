@@ -51,7 +51,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.ownsupernoob.auredio" target="blank"><img src="./auredio.png" alt="Auredio app" /></a>
 
 
-<h4>2. E-commerce website (getting rebuilt) </h4>
+<h4>2. E-commerce website (Archived) </h4>
 
 <a href="https://sabashop.org" target="blank"><img src="./saba.png" alt="Saba shop site" /></a>
 
