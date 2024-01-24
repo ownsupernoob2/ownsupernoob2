@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Personallity Face AI]()
 
-- 🌱 I’m currently learning **TypeScript & Python**
+- 🌱 I’m currently learning **Go & PostgreSQL**
 
 - 📫 How to reach me **pufferrfissh@duck.com**
 
