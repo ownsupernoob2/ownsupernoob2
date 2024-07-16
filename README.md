@@ -9,7 +9,7 @@
                 and App Developer, I like talking about fun topics and working with
                 a team. I specialize in JS but I try to do other programming languages :)</h4>
 
-- 🔭 I’m currently working on [Personallity Face AI]()
+- 🔭 I’m currently working on [An App]()
 
 - 🌱 I’m currently learning **Go & PostgreSQL**
 
