@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Go & PostgreSQL**
 
-- 📫 How to reach me **pufferrfissh@duck.com**
+- 📫 How to reach me **marminamina3@gmail.com**
 
 - 💭 Here is where my noodle code is stored so I can work on them later on.
 
