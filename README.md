@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [an app, a website and a game]()
 
-- 🌱 I’m currently learning **Go & PostgreSQL & Godot**
+- 🌱 I’m currently learning **Go & PostgreSQL & Unity**
 
 - 📫 How to reach me **marminamina3@gmail.com**
 
