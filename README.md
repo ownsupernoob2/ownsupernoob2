@@ -3,7 +3,6 @@
 <img align="center" src="https://svg-banners.vercel.app/api?type=luminance&text1=Mina%20🐧&text2=Noodle%20Code&width=800&height=400" alt="ownsupernoob2" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Mina</h1>
 
 <h4 align="center">to make a long story short I’m a full stack Web Developer
                 and App Developer, I like talking about fun topics and working with
@@ -13,7 +12,7 @@
 
 - 🌱 I’m currently learning **Go & PostgreSQL & Unity**
 
-- 📫 How to reach me **marminamina3@gmail.com**
+- 📫 How to reach me **pufferrfissh@duck.com**
 
 - 💭 Here is where my noodle code is stored so I can work on them later on.
 
@@ -68,7 +67,7 @@
 
 ---
 
-<h6 align="center">Made with ❤️ by Me</h6>
+<img src="https://raw.githubusercontent.com/leereilly/leereilly/master/images/breakout-dark.svg" />
 
 ---
 
