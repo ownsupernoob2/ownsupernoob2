@@ -25,10 +25,6 @@
 
 ---
 
-<h1 align="center">STATS FOR NERDS</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ownsupernoob2" alt="ownsupernoob2" /> </p>
-
 <p align="center">
   <img align="center" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13236079?theme=dark&website=true&location=true" alt="user:13236079's SO profile">
   </p>
